@@ -44,12 +44,6 @@ I am passionate about creating engaging and intuitive user experiences on the we
 
 <a href="http://www.github.com/Wutche"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wutche&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Wutche" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wutche&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Wutche/nft--marketplace-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wutche&repo=nft--marketplace-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/Wutche/Food-Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Wutche&repo=Food-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Wutche"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
