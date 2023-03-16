@@ -6,10 +6,8 @@ Front-End developer
 
 I am passionate about creating engaging and intuitive user experiences on the web. My expertise in HTML, CSS, and JavaScript, along with popular front end framework like React, allow me to bring websites and applications to life.
 
-* 🌍  I'm based in Any on the internet
 * ✉️  You can contact me at [wutchechikaome75@gmail.com](mailto:wutchechikaome75@gmail.com)
 * 🚀  I'm currently working on [Vettly](http://dev-vetlyapp.netlify.app/sign-in)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
