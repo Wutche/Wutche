@@ -38,7 +38,3 @@ I am passionate about creating engaging and intuitive user experiences on the we
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Wutche"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wutche&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Wutche"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
