@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wutche
 ==============================================================================================================================
 
-Front-end developer 👾👨‍💻
+Software developer 👾👨‍💻
 ---------------------------
 
 I am passionate about creating engaging and intuitive user experiences on the web. My expertise in HTML, CSS, and JavaScript, Typescript, along with popular front end framework like React, allow me to bring websites and applications to life.
